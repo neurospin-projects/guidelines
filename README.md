@@ -12,7 +12,7 @@ The following is a set of guidelines for contributing to NeuroSpin research proj
 
 ## Introduction
 
-The [neurospin-projects Organization](https://github.com/neurospin-projects) was created to probe reproducible research by providing a place to share the code and data of our research projects. There are two basic reasons to be concerned about making your research reproducible. The first is to show evidence of the correctness of our results. The second reason to aspire to reproducibility is to enable others to make use of our methods and results. The following sections present some guidelines on how to contribute by submiting your research code and data.
+The [neurospin-projects Organization](https://github.com/neurospin-projects) was created to probe reproducible research by providing a place to share the code and data of your research projects. There are two basic reasons to be concerned about making your research reproducible. The first is to show evidence of the correctness of our results. The second reason to aspire to reproducibility is to enable others to make use of our methods and results. The following sections present some guidelines on how to contribute by submiting your research code and data.
 
 ## How Can I Contribute?
 
