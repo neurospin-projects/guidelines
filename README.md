@@ -8,7 +8,7 @@ The following is a set of guidelines for contributing to NeuroSpin research proj
 
 1. [Introduction](#introduction)
 2. [How Can I Contribute?](#how-can-i-contribute)
-3. [Code of Conduct](#code-of-conduct)
+3. [Style Guide](#style-guide)
 
 ## Introduction
 
