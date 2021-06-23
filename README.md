@@ -22,7 +22,7 @@ Nothing could be simpler, just make a request by email to create a new repositor
 
 All contributions may adhere to the following style guides:
 
-1. All code should be compatible with the Python 3.
+1. All code should be compatible with Python 3.
 
 1. All code should adhere to [PEP8](https://www.python.org/dev/peps/pep-0008/) standards.
 
