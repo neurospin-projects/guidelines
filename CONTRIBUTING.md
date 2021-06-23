@@ -1,2 +1,0 @@
-# guidelines
-New projects guidelines.
