@@ -7,8 +7,8 @@ The following is a set of guidelines for contributing to NeuroSpin research proj
 #### Table Of Contents
 
 1. [Introduction](#introduction)
-2. [How Can I Contribute?](#how-can-i-contribute)
-3. [Style Guide](#style-guide)
+3. [How Can I Contribute?](#how-can-i-contribute)
+5. [Style Guide](#style-guide)
 
 ## Introduction
 
@@ -22,10 +22,9 @@ Nothing could be simpler, just make a request by email to create a new repositor
 
 All contributions may adhere to the following style guides:
 
-1. All code should be compatible with Python 3.
-
-1. All code should adhere to [PEP8](https://www.python.org/dev/peps/pep-0008/) standards.
-
-1. Docstrings need to be provided for all new modules, methods and classes. These should adhere to [numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html) standards.
-
-1. When in doubt look at the existing code for inspiration.
+1. All new codes should be compatible with Python 3.6 or higher.
+2. All codes should contain a [requirement file](https://www.python.org/dev/peps/pep-0508) to specify the project dependencies.
+3. All repositories should contain a [README file](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes) to tell other people why your project is useful, what they can do with your project, and how they can use it.
+4. All codes should adhere to [PEP8](https://www.python.org/dev/peps/pep-0008/) standards.
+5. Docstrings need to be provided for all new modules, methods and classes. These should adhere to [numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html) standards.
+6. When in doubt look at the existing code for inspiration.
