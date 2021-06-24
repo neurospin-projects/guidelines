@@ -23,7 +23,7 @@ Nothing could be simpler, just make a request by email to create a new repositor
 All contributions may adhere to the following style guides:
 
 1. All new codes should be compatible with Python 3.6 or higher.
-2. All codes should contain a [requirement file](https://www.python.org/dev/peps/pep-0508) to specify the project dependencies.
+2. All codes should contain a [requirements file](https://pip.pypa.io/en/stable/cli/pip_install/#requirement-specifiers) that specifies the project dependencies.
 3. All repositories should contain a [README file](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes) to tell other people why your project is useful, what they can do with your project, and how they can use it.
 4. All codes should adhere to [PEP8](https://www.python.org/dev/peps/pep-0008/) standards.
 5. Docstrings need to be provided for all new modules, methods and classes. These should adhere to [numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html) standards.
