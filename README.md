@@ -2,7 +2,9 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-The following is a set of guidelines for contributing to NeuroSpin research projects and its packages, which are hosted in the [neurospin-projects Organization](https://github.com/neurospin-projects) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request. If you want to put a "star" on a forked project, do it on the original repository to improve its visibility.
+The following is a set of guidelines for contributing to NeuroSpin research projects and its packages, which are hosted in the [neurospin-projects Organization](https://github.com/neurospin-projects) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+For the moment only ML or DL projects are approved.
+If you want to put a "star" on a forked project, do it on the original repository to improve its visibility.
 
 #### Table Of Contents
 
